@@ -25,3 +25,16 @@ Ctrl + d  // 快速打开调试窗口
 Ctrl + f  // 前进
 Ctrl + b  // 后退
 ```
+## 效果展示
+###  首页
+![]( https://github.com/guyuezhai/electron-demo/app/image/head.jpg)  
+###  点击 Dashboard 效果
+![]( https://github.com/guyuezhai/electron-demo/app/image/dashboard.jpg) 
+###  点击 Reports 效果
+![]( https://github.com/guyuezhai/electron-demo/app/image/report.jpg) 
+###  点击 Settings 效果
+![]( https://github.com/guyuezhai/electron-demo/app/image/setting.jpg) 
+###  点击 Profile 效果
+![]( https://github.com/guyuezhai/electron-demo/app/image/profile.jpg) 
+###  点击 Help 效果
+![]( https://github.com/guyuezhai/electron-demo/app/image/help.jpg) 

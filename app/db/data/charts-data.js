@@ -290,6 +290,3 @@ module.exports = {
     reportData
 }
 
- //generateData();
- //console.log(generateData())
-
