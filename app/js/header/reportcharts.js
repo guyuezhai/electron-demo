@@ -69,7 +69,7 @@ setInterval(function () {
     
       ipcRenderer.send('report-ready-get')
     
-  }, 3000);
+  }, 2000);
   
   ipcRenderer.on('report-get', (event, args) => {
       
@@ -79,40 +79,3 @@ setInterval(function () {
       console.log(JSON.parse(args))
   
   })
-
-//var data = [],
-
-// (function () {
-//         time = (new Date()).getTime(),
-//         i;
-
-//     for (i = -19; i <= 0; i += 1) {
-//         data.push({
-//             x: time + i * 1000,
-//             y: Math.random()
-//         });
-//     }
-//     return data;
-    
-// }())
-
-//line.series[0].setData(data)
-// ([{
-//     x: 99000,
-//     y: 234
-// }])
-
-/*data: (function () {
-    // generate an array of random data
-    var data = [],
-        time = (new Date()).getTime(),
-        i;
-
-    for (i = -19; i <= 0; i += 1) {
-        data.push({
-            x: time + i * 1000,
-            y: Math.random()
-        });
-    }
-    return data;
-}())*/
