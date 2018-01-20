@@ -27,14 +27,14 @@ Ctrl + b  // 后退
 ```
 ## 效果展示
 ###  首页
-![](https://github.com/guyuezhai/electron-demo/raw/master/app/image/head.jpg)  
+![](https://github.com/guyuezhai/electron-demo/raw/master/app/image/head.gif)  
 ###  点击 Dashboard 效果
-![](https://github.com/guyuezhai/electron-demo/raw/master/app/image/dashboard.jpg) 
+![](https://github.com/guyuezhai/electron-demo/raw/master/app/image/dashboard.gif) 
 ###  点击 Reports 效果
-![](https://github.com/guyuezhai/electron-demo/raw/master/app/image/report.jpg) 
+![](https://github.com/guyuezhai/electron-demo/raw/master/app/image/report.gif) 
 ###  点击 Settings 效果
-![](https://github.com/guyuezhai/electron-demo/raw/master/app/image/setting.jpg) 
+![](https://github.com/guyuezhai/electron-demo/raw/master/app/image/setting.gif) 
 ###  点击 Profile 效果
-![](https://github.com/guyuezhai/electron-demo/raw/master/app/image/profile.jpg) 
+![](https://github.com/guyuezhai/electron-demo/raw/master/app/image/profile.gif) 
 ###  点击 Help 效果
 ![](https://github.com/guyuezhai/electron-demo/raw/master/app/image/help.jpg) 

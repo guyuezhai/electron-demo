@@ -1,6 +1,7 @@
 const echarts = require('echarts')
 require('echarts/lib/chart/map')
-require('../map/china.js')
+require('echarts/map/js/china.js')
+//require('../map/china.js')
 
 var myChart = echarts.init(document.getElementById('main'));
 
