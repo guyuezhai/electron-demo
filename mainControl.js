@@ -1,20 +1,20 @@
 require('highcharts/highcharts-3d.js')(Highcharts);
 
 const echarts = require('echarts')
-const migriteService = require('./migrateService.js')
+const migriteService = require('./app/serve/migrateService.js')
 
 app.config(['$routeProvider', function($routeProvider){
     $routeProvider
     .when('/',{
-        templateUrl: './head.html',
+        templateUrl: './app/component/head.html',
         controller: 'chart3D'
     })
     .when('/chartbar',{
-        templateUrl:'./dashboard.html',
+        templateUrl:'./app/component/chart-bar.html',
         controller: 'chartBar'
     })
     .when('/migrate',{
-        templateUrl: './migrate.html',
+        templateUrl: './app/component/migrate.html',
         controller: 'migrate'
     })
     .otherwise({redirectTo:'/'});
